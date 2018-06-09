@@ -1,4 +1,4 @@
-package LSPviolation;
+package LSPsolution;
 
 public class Campana {
 

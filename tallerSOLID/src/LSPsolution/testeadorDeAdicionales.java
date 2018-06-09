@@ -1,4 +1,4 @@
-package LSPviolation;
+package LSPsolution;
 
 import vehiculos.Vehiculo;
 
